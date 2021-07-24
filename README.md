@@ -1,4 +1,4 @@
-# This is an algorithm challenge with C++
+## C++ Algorithm Challenge
 
 ## Problem
 Create subsets consisting of non-adjacent elements in an integer array, and find the subset with the max sum among these subsets.
